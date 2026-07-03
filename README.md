@@ -10,7 +10,7 @@ B.Tech CSE student (2nd year) based in Hyderabad, India. Working toward a SWE/SD
 
 ## Stack
 
-- **Languages:** C++, Python, TypeScript
+- **Languages:** C, Java, C++, Python
 - **Databases:** PostgreSQL, Supabase
 - **Currently exploring:** AI coding tools, system design fundamentals
 
